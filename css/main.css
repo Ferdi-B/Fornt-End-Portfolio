@@ -1,0 +1,51 @@
+
+
+@media (max-width: 544px) {  
+  h1 {font-size:1.5rem;} 
+  h2 {font-size: 1.3rem;}
+  h3 {font-size: 1.2rem;}
+  blockquote {font-size: 1rem !important;}
+}
+.logo {
+  width: 150px;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+h3 {
+    font-weight: 200;
+    }
+
+.h2-indent {
+  margin-left: 13px;
+  margin-top: 40px;
+  margin-bottom: 20;
+}
+
+blockquote {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.hr-style {
+  width: 100%;  
+  margin-left: 14px;
+  margin-right: 14px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border: solid;
+  color: #8bc;
+  
+}
+
+.h2-text-align {
+  text-align: center;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
